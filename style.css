@@ -1,0 +1,11 @@
+.mantas {
+  background: #ccc;
+}
+
+.mantas .title {
+  font-size: 40px;
+}
+
+.mantas .description {
+  font-size: 24px;
+}
